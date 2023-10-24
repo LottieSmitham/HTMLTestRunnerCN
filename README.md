@@ -2,7 +2,7 @@
 https://github.com/findyou/HTMLTestRunnerCN/tree/dev
 
 ```python
-* Version 0.8.3 20171206  -Findyou
+##Version#0.8.3 20171206  -Findyou
    # BUG fixed :错误的测试用例没有统计与显示
    # BUG fixed :当PASS的测试用例有print内容时，通过按钮显示为红色
    # 表格背景颜色根据用例结果显示颜色，优先级： 错误(黄色)>失败(红色)>通过(绿色)
@@ -66,7 +66,7 @@ python test_HTMLTestRunnerEN.py
 ```
 
 * 执行结果：Report.html
-![1](https://github.com/findyou/HTMLTestRunnerCN/blob/master/Report_EN.gif?raw=true) 
+*[1](https://github.com/findyou/HTMLTestRunnerCN/blob/master/Report_EN.gif?raw=true) 
 
 二、HTMLTestRunnerCN（python2.x） 使用
 --------------------------
@@ -84,3 +84,4 @@ python test_HTMLTestRunnerEN.py
 --------------------------
 使用同HTMLTestRunnerEN，无区别<br>
  <br>
+ 
